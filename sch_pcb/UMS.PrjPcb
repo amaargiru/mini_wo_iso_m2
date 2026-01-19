@@ -220,14 +220,18 @@ GenerateClassCluster=0
 DocumentUniqueId=RERONAEE
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for UMS\Design Rule Check - ums.html
+DocumentPath=Project Outputs for UMS\BOM\Bill of Materials-UMS.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UMS\ums.LDP
+DocumentPath=Project Outputs for UMS\Design Rule Check - ums.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for UMS\ums.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for UMS\ums.TXT
 DItemRevisionGUID=
 
