@@ -1,0 +1,18 @@
+Board Information Report
+Filename     : C:\Work\mini_wo_iso_m2\sch_pcb\PCB\ums.PcbDoc
+Date         : 03.02.2026
+Time         : 9:22:03
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 30mmx30mm
+    Components on board, 198
+count : 2
+
+Pad Solder Mask, Count
+    0mm, 13
+    0.05mm, 469
+    0.075mm, 59
+    0.5mm, 2
+    1mm, 1
+count : 5
